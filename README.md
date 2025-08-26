@@ -1,4 +1,4 @@
-# Nyebut Package
+# Nyebut Package Laravel
 
 [Belajar di FastCampus]
 
